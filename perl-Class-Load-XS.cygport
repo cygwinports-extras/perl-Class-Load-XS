@@ -1,0 +1,9 @@
+CPAN_AUTHOR=drolsky
+inherit perl
+
+NAME="perl-Class-Load-XS"
+VERSION=0.06
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl Class::Load XS code"
+DESCRIPTION="XS implementation of parts of Class::Load"
