@@ -1,8 +1,8 @@
-CPAN_AUTHOR=drolsky
+CPAN_AUTHOR=ether
 inherit perl
 
 NAME="perl-Class-Load-XS"
-VERSION=0.06
+VERSION=0.09
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl Class::Load XS code"
